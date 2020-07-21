@@ -3221,15 +3221,12 @@ input, select, textarea {
 
 	}
 
+	/* .scrolly {
+		scroll-behavior: smooth !important; 
+	} */
 
 
-
-
-
-
-
-
-
+/* Stars animation */
 
 	#stars {
 		width: 1px;
